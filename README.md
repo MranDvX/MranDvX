@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/franmavazq/franmavazq/blob/master/assets/Hi.gif" width="29px"> Hi, I'm Francisco Mancuello</h1>
+<h1 align="center"><img src="https://github.com/franmavazq/franmavazq/blob/main/assets/Hi.gif" width="29px"> Hi, I'm Francisco Mancuello</h1>
 
 ## 🚀 About Me
 
@@ -45,7 +45,7 @@
 [In progress...]
 
 <div align="center">
-  <h3 align="center">Connect with me <img align="center" src="https://github.com/franmavazq/franmavazq/blob/master/assets/Handshake.gif" height="33px" /></h3>
+  <h3 align="center">Connect with me <img align="center" src="https://github.com/franmavazq/franmavazq/blob/main/assets/Handshake.gif" height="33px" /></h3>
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/franmavazq/" target="_blank">
