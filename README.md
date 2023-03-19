@@ -6,7 +6,7 @@
 - 🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este
 - 📍 Living in Ciudad del Este, Paraguay
 - 📫 Contact me: franmavazq@gmail.com
-- 📝 My [Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+- 📝 My [Resume](https://docs.google.com/document/d/1C3TQsBs5j2TX1V0bq9TwR2-ga9r6xXUPJGliF7gR4Xc/edit?usp=share_link)
 
 ## 💻 Technologies and Tools
 
