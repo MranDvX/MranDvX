@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/franmavazq/franmavazq/blob/main/assets/Hi.gif" width="29px"> Hi, I'm Francisco Mancuello</h1>
+<h1 align="center"><img src="https://github.com/MranDvX/MranDvX/blob/main/assets/Hi.gif" width="29px"> Hi, I'm Francisco Mancuello</h1>
 
 ## 🚀 About Me
 
@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-| <a href="https://github-readme-stats.vercel.app/api?username=franmavazq&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franmavazq&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Franmavazq's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=franmavazq&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmavazq&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MranDvX's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 📖 Featured Projects
@@ -52,7 +52,7 @@
 [In progress...]
 
 <div align="center">
-  <h3 align="center">Connect with me <img align="center" src="https://github.com/franmavazq/franmavazq/blob/main/assets/Handshake.gif" height="33px" /></h3>
+  <h3 align="center">Connect with me <img align="center" src="https://github.com/MranDvX/MranDvX/blob/main/assets/Handshake.gif" height="33px" /></h3>
 </div>
 <p align="center">
  <a href="mailto:franmavazq@gmail.com" target="_blank">
@@ -61,7 +61,7 @@
  <a href="https://www.linkedin.com/in/franmavazq/" target="_blank">
   <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp;
  </a>
- <a href="https://linktr.ee/franmavazq" target="_blank">
+ <a href="https://linktr.ee/MranDvX" target="_blank">
   <img align="center" alt="linktr" width="30px" src="https://api.blog.production.linktr.ee/wp-content/uploads/4022/06/Avatar-Symbol-Canopy.png" /> &nbsp;
  </a>
   <br/>
