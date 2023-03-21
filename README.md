@@ -9,6 +9,7 @@
 - 📝 My [Resume](https://docs.google.com/document/d/1C3TQsBs5j2TX1V0bq9TwR2-ga9r6xXUPJGliF7gR4Xc/edit?usp=share_link)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MranDvX&label=Profile%20views&color=0e75b6&style=flat" alt="MranDvX" /> </p>
+
 ## 💻 Technologies and Tools
 
 <!-- ### Frontend -->
