@@ -48,10 +48,10 @@
 
 | <a href="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MranDvX's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<!--
 ## 📖 Featured Projects
 
-[In progress...]
+[In progress...] -->
 
 <div align="center">
   <h3 align="center">Connect with me <img align="center" src="https://github.com/MranDvX/MranDvX/blob/main/assets/Handshake.gif" height="33px" /></h3>
