@@ -17,6 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
+<a href="https://www.php.net/" target="_blank"><img height="40" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
 <a href="https://react.dev/" target="_blank"><img height="40" alt="reactjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
 <a href="https://vuejs.org/" target="_blank"><img height="40" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></a>
 <a href="https://sass-lang.com/" target="_blank"><img height="40" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a>
@@ -27,6 +28,7 @@
 <a href="https://expressjs.com/" target="_blank"><img height="40" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></a>
 <a href="https://nodejs.org/en" target="_blank"><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
 <a href="https://nextjs.org/" target="_blank"><img height="40" alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></a>
+<a href="https://laravel.com/" target="_blank"><img height="40" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a>
 <a href="https://aws.amazon.com/" target="_blank"><img height="40" alt="aws" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></a>
 <a href="https://azure.microsoft.com/en-us" target="_blank"><img height="40" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></a>
 <a href="https://www.oracle.com/cloud/" target="_blank"><img height="40" alt="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></a>
@@ -35,6 +37,7 @@
 <!-- ### Databases -->
 
 <a href="https://www.mysql.com/" target="_blank"><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></a>
+<a href="https://www.mysql.com/" target="_blank"><img height="40" alt="mysql" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img height="40" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
 
