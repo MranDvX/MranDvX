@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer at [Rappi](https://www.rappi.com.co/)
+- 💼 Full Stack Senior at [Paggo](https://www.paggoapp.com/)
 - 🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este
 - 📍 Living in Ciudad del Este, Paraguay
 - 📫 Contact me: franmavazq@gmail.com
