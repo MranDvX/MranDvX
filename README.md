@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 💼 Frontend Lead at [Paggo](https://www.paggoapp.com/)
+- 💼 Lead Front End Developer at [Paggo](https://www.paggoapp.com/)
 - 🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este
 - 📍 Living in Ciudad del Este, Paraguay
 - 📫 Contact me: franmavazq@gmail.com
