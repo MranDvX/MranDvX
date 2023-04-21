@@ -1,70 +1,28 @@
-<h1 align="center"><img src="https://github.com/MranDvX/MranDvX/blob/main/assets/Hi.gif" width="29px"> Hi, I'm Francisco Mancuello</h1>
-
-## 🚀 About Me
-
-- 💼 Lead Front End Developer at [Paggo](https://www.paggoapp.com/)
-- 🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este
-- 📍 Living in Ciudad del Este, Paraguay
-- 📫 Contact me: franmavazq@gmail.com
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MranDvX&label=Profile%20views&color=0e75b6&style=flat" alt="MranDvX" /> </p>
-
-## 💻 Technologies and Tools
-
-<!-- ### Frontend -->
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a href="https://www.php.net/" target="_blank"><img height="40" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
-<a href="https://react.dev/" target="_blank"><img height="40" alt="reactjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
-<a href="https://vuejs.org/" target="_blank"><img height="40" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></a>
-<a href="https://sass-lang.com/" target="_blank"><img height="40" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a>
+# 💫 About Me:
+🔭 I’m currently working as Lead Front End Developer at Paggo <br>🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este<br>⚡ In my free time I'm a team lead at @Trycatch-tv, carrying out a project called DevLatam<br>📫 Contact me: franmavazq@gmail.com
 
 
-<!-- ### Backend -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrandvx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franmavazq) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8660685) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MranDvX) 
 
-<a href="https://expressjs.com/" target="_blank"><img height="40" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></a>
-<a href="https://nodejs.org/en" target="_blank"><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-<a href="https://nextjs.org/" target="_blank"><img height="40" alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></a>
-<a href="https://laravel.com/" target="_blank"><img height="40" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img height="40" alt="aws" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></a>
-<a href="https://azure.microsoft.com/en-us" target="_blank"><img height="40" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></a>
-<a href="https://www.oracle.com/cloud/" target="_blank"><img height="40" alt="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></a>
-<a href="https://graphql.org/" target="_blank"><img height="40" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></a>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MranDvX&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MranDvX&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ### Databases -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MranDvX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="https://www.mysql.com/" target="_blank"><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></a>
-<a href="https://www.mysql.com/" target="_blank"><img height="40" alt="mysql" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img height="40" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=MranDvX)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<!-- ### Tools and Platforms -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://git-scm.com/" target="_blank"><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrandvx) 
 
-## 📊 GitHub Stats
-
-| <a href="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MranDvX's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<!--
-## 📖 Featured Projects
-
-[In progress...] -->
-
-<div align="center">
-  <h3 align="center">Connect with me <img align="center" src="https://github.com/MranDvX/MranDvX/blob/main/assets/Handshake.gif" height="33px" /></h3>
-</div>
-<p align="center">
- <a href="mailto:franmavazq@gmail.com" target="_blank">
-  <img align="center" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp;
- </a>
- <a href="https://www.linkedin.com/in/franmavazq/" target="_blank">
-  <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp;
- </a>
-  <br/>
-  <br/>
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
