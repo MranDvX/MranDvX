@@ -14,11 +14,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MranDvX&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MranDvX&theme=algolia&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars" alt="alexsantos-eth" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MranDvX&theme=algolia&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars" alt="MranDvX" />
 </p>
 
 ## 🐦 Latest Tweet
-  [![](https://gtce.itsvg.in/api?username=MranDvX)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+  [![](https://gtce.itsvg.in/api?username=MranDvX&theme=github_dark&icon=user)](https://twitter.com/MranDvX)
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
