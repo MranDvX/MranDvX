@@ -18,8 +18,9 @@
 </p>
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=MranDvX)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+<a href="https://github.com/MranDvX">
+  <img height="180em" src="https://gtce.itsvg.in/api?username=MranDvX)](https://github.com/VishwaGauravIn/github-twitter-card-embed"/>
+</a>
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
