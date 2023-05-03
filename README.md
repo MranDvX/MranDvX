@@ -18,7 +18,7 @@
 </p>
 
 ## 🐦 Latest Tweet
-  [![](https://gtce.itsvg.in/api?username=MranDvX&theme=github_dark&icon=user)](https://twitter.com/MranDvX)
+  [![](https://gtce.itsvg.in/api?username=MranDvX&theme=github_dark&icon=code)](https://twitter.com/MranDvX)
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
