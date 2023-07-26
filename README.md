@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working as Front End Developer Senior <br>🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este<br>⚡ In my free time I'm a team lead at [@Trycatch-tv](https://github.com/Trycatch-tv), carrying out a project called [DevLatam](https://www.tiktok.com/@trycatch.tv/video/7219789077032275205)<br>📫 Contact me: franmavazq@gmail.com
+🔭 I’m currently working as Full Stack Developer <br>🎓 Graduated from B.Sc.S.A. in Universidad Nacional del Este<br>⚡ In my free time I'm a team lead at [@Trycatch-tv](https://github.com/Trycatch-tv), carrying out a project called [DevLatam](https://www.tiktok.com/@trycatch.tv/video/7219789077032275205)<br>📫 Contact me: franmavazq@gmail.com
 
 
 ## 🌐 Socials:
