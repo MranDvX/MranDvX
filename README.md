@@ -1,3 +1,5 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+
 ## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> <b>About me</b> <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
 
 - 🫡 I’m currently working as `Full Stack Developer`
@@ -182,3 +184,5 @@
 
 ## 😊 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrandvx)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
