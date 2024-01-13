@@ -163,7 +163,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github stats </b>
 <p align="left">
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MranDvX&show_icons=true&theme=algolia&bg_color=0,000000,130F40&include_all_commits=true&count_private=true&hide_border=true"/> -->
-  <img alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&count_private=true&custom_title=MranDvX Stats&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true"/>
+  <img alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true"/>
   <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=8&hide_border=true"/>
 </p>
 
