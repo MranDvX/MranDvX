@@ -66,28 +66,22 @@
 ### Misc
 <p align="left">
   <a href="#">
-    <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/misc/tablet.svg" alt="tablet" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img src="svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
     <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
   </a>
   <!-- <a href="#">
     <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
@@ -140,13 +134,13 @@
   </a>
   <a href="#">
     <img src="svg/os/android.svg" alt="android" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/devices/wearables.svg" alt="wearables" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/devices/wearables.svg" alt="wearables" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 </p>
 
 ## Coding challenges
@@ -169,7 +163,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github stats </b>
 <p align="left">
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MranDvX&show_icons=true&theme=algolia&bg_color=0,000000,130F40&include_all_commits=true&count_private=true&hide_border=true"/> -->
-  <img alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true"/>
+  <img alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=MranDvX&show_icons=true&include_all_commits=true&count_private=true&custom_title=MranDvX Stats&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true"/>
   <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MranDvX&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=8&hide_border=true"/>
 </p>
 
