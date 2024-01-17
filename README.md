@@ -143,7 +143,7 @@
   </a>
 </p>
 
-## Coding challenges
+<!-- ## Coding challenges
 <p align="left">
   <a href="#">
     <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
@@ -157,7 +157,7 @@
   <a href="#">
     <img src="svg/dev/services/excercism.svg" alt="excercism" style="vertical-align:top; margin:6px 4px">
   </a>
-</p>
+</p> -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github stats </b>
