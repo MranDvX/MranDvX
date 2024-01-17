@@ -4,7 +4,7 @@
 
 - 🫡 I’m currently working as `Full Stack Developer`
 - ⚡ In my free time I'm a team lead at [@Trycatch-tv](https://github.com/Trycatch-tv), carrying out a project called [DevLatam](https://www.tiktok.com/@trycatch.tv/video/7219789077032275205)
-- 💼 `Open to work`, this is [my resume](https://mrandvx.com/)
+- 💼 `Open to work`, this is [my resume](https://drive.google.com/drive/folders/1TRsoqNo9ffqt_3mufeYVnR3u7QgkYOHn?usp=sharing)
 - 📫 Email: `franmavazq@gmail.com`
 - 🌐 You can visit [my website](https://mrandvx.com/)
 
