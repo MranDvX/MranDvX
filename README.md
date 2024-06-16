@@ -3,7 +3,7 @@
 ## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> <b>About me</b> <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture>
 
 - 🫡 I’m currently working as `Full Stack Developer`
-- 💼 `Open to work`, this is [my resume]([https://drive.google.com/drive/folders/1TRsoqNo9ffqt_3mufeYVnR3u7QgkYOHn?usp=sharing](https://drive.google.com/file/d/1WREdOPvy--QyKyAm6gV7li0w9Lpz41x7/view?usp=sharing))
+- 💼 `Open to work`, this is [my resume](https://drive.google.com/file/d/1WREdOPvy--QyKyAm6gV7li0w9Lpz41x7/view?usp=sharing)
 - 📫 Email: `franmavazq@gmail.com`
 - 🌐 You can visit [my website](https://mrandvx.com/)
 
